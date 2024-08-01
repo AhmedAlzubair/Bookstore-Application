@@ -1,13 +1,6 @@
 class AppLink {
-  static const String server4 =
-      'http://10.0.2.2/book_php';
-  static const String server2 = "https://toleeen.com/toleenpro1";
-  static const String test = "$server2/test.php";
-  static const String tests = "$server4/viewuser.php";
 
-
-//static const String server="https://alzubairecommerc.eb2a.com/angle_delivery_php";
-static const String server="https://ahmedecommerc.000webhostapp.com/book_php";
+static const String server="https:///book_php";
 //========================== Image ============================
   static const String imageststatic = "../angle_delivery_php";
   static const String imagestcatss = "$server/upload/categories";
